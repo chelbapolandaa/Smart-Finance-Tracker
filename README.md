@@ -19,7 +19,7 @@ AI-powered personal finance management dengan kemampuan prediksi pengeluaran, de
 ## 📊 Model Performance
 
 | Model | Purpose | Algorithm | Accuracy |
-|-------|----------|-----------|--------|----------|
+|-------|----------|-----------|--------|
 | Category Predictor | Transaction categorization | Random Forest | 85%+ |
 | Spending Predictor | Monthly spending forecast | Linear Regression | 70%+ |
 | Anomaly Detector | Fraud detection | 	Isolation Forest | 90%+ |
