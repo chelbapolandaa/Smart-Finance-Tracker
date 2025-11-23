@@ -1,0 +1,22 @@
+# =============================================
+# DEVELOPMENT & DEBUGGING TOOLS
+# =============================================
+jupyter==1.0.0                 # Jupyter notebooks untuk eksperimen
+ipython==8.14.0               # Enhanced Python shell
+autopep8==2.0.2               # Code formatting
+flake8==6.0.0                 # Code linting
+pylint==2.17.4                # Code analysis
+
+# =============================================
+# TESTING ENHANCEMENTS
+# =============================================
+pytest-cov==4.1.0             # Test coverage
+pytest-html==3.2.0            # HTML test reports
+faker==18.11.2                # Generate fake test data
+
+# =============================================
+# DOCUMENTATION
+# =============================================
+mkdocs==1.4.3                 # Documentation generator
+mkdocs-material==9.1.18       # Material design for docs
+markdown-include==0.8.1       # Include markdown files
